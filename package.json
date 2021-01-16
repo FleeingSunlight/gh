@@ -4,5 +4,12 @@
   "main": "index.js",
   "repository": "https://github.com/FleeingSunlight/gh.git",
   "author": "FleeingSunlight <gh@fleeingsunlight.dev>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^18.0.12",
+    "tkt": "^2.0.0"
+  },
+  "devDependencies": {
+    "pkg": "^4.4.9"
+  }
 }
