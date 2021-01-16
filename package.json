@@ -1,0 +1,8 @@
+{
+  "name": "gh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/FleeingSunlight/gh.git",
+  "author": "FleeingSunlight <gh@fleeingsunlight.dev>",
+  "license": "MIT"
+}
